@@ -501,9 +501,6 @@ Commands list :
 
 11-bot number & support ^
 
-!botnumber
-دریافت شماره ربات
-
 !support
 دعوت سازنده ربات به گروه
 (در صورت وجود مشکل)
