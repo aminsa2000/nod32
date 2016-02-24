@@ -216,7 +216,6 @@ function create_config( )
     "banhammer",
     "boobs",
     "bot_manager",
-    "botnumber",
     "broadcast",
     "calc",
     "chat_bot",
@@ -243,7 +242,6 @@ function create_config( )
     "stats",
     "support",
     "time",
-    "version"
     },
 	    sudo_users = {41471906},--Sudo users
     disabled_channels = {},
