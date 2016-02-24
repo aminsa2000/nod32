@@ -224,6 +224,7 @@ function create_config( )
     "get",
     "google",
     "gps",
+    "info",
     "ingroup",
     "inpm",
     "filter",
