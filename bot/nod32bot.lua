@@ -519,6 +519,9 @@ you can use both "/" and "!"
 .شما میتوانید از ! و / استفاده کنید
 
 channel: @appfreebazar12
+bot: @hamechighati_bot
+id admin: @Xx0_amin_oxX
+id admin for reports: @Xx0_amin_oxX_bot
 
 G00D LUCK ^_^
 ]]
