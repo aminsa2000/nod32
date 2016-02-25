@@ -7,49 +7,46 @@ if msg.text == "Umbrella" then
 	return "کیر نود32 هم نی"
 end
 if msg.text == "umbrella" then
-	return "کیر نود32 هم نی"
+	return "به کلودی روبوت نمیرسه"
 end
-if msg.text == "نود32" then
+if msg.text == "کلودی" then
 	return "hum?"
 end
 if msg.text == "اسپم" then
-	return "کس ننت میذارم بخای اسپم کنی"	
-end
-if msg.text == "زتا" then
-	return "کس ننش بگو مرسی"	
+	return "هیچ گهی نمیخوری"	
 end
 if msg.text == "ایکس ایگرگ" then
-	return "ایکس ایگرگو همرا ننت گاییدم ابمم ریختم روش"	
+	return "ایکس ایگرگم حریفم نی"	
 end
 if msg.text == "spam" then
-	return "تو اگه تخم داشتی اسپم کنی الان اینجا بودی"	
+	return "جرئت نداری"	
 end
 if msg.text == "ایکس" then
-	return "ایکس ایگرگ گاییدم ابمم کس ننته"	
+	return "ایکس ایگرگم حریفم نی"
 end
 if msg.text == "ایگرگ" then
-	return "ایکس ایگرگ گاییدم ابمم کس ننته"	
+	return "ایکس ایگرگم حریفم نی"
 end
 if msg.text == "x" then
-	return "ایکس ایگرگ گاییدم ابمم کس ننته"	
+	return "ایکس ایگرگم حریفم نی"
 end
 if msg.text == "start" then
-	return "تو اگه تخم داشتی گروهو خراب کنی بیا پیش خودم ننتومیگام @behroozyaghi"
+	return "اگه جرئت داشتی همچین گهی بخوری بیا پیویم @Xx0_amin_oxX_bot"
 end
 if msg.text == "y" then
-	return "ایکس ایگرگ گاییدم ابمم کس ننته"	
+	return "ایکس ایگرگم حریفم نی"
 end
 if msg.text == "Bot" then
-	return "چی کس میگی؟"
+	return "هان؟"
 end
 if msg.text == "?" then
 	return "Hum??"
 end
 if msg.text == "بای" then
-	return "برو به سلامت سیکتیرکن"
+	return "برو به سلامت"
 end
 if msg.text == "XY" then
-	return "کس ننت میگام سیکتیر اوبی"
+	return "ایکس ایگرگم حریفم نی"
 end
 if msg.text == "Xy" then
 	return "Bye Bye"
