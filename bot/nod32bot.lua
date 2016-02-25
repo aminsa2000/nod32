@@ -316,7 +316,9 @@ Only sudo users can run this command
 !bc 123456789 Hello !
 This command will send text to [group_id]
 
-ch: @Nod32team
+ch: @appfreebazar12
+id admin: @Xx0_amin_oxX
+id admin for reports: @Xx0_amin_oxX_bot
 
 ]],
     help_text = [[
